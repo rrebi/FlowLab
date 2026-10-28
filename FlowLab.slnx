@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FlowLab.Core/FlowLab.Core.csproj" />
+  <Project Path="FlowLab.SensorSim/FlowLab.SensorSim.csproj" />
+  <Project Path="FlowLab.Tests/FlowLab.Tests.csproj" />
+</Solution>
